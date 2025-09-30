@@ -1,6 +1,5 @@
 import Body from "./Body.jsx";
 import Login from "./components/Login.jsx";
-import Navbar from "./components/Navbar.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Profile from "./components/Profile.jsx";
 
